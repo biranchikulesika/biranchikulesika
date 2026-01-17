@@ -84,24 +84,6 @@ I am a cyber security enthusiast, programmer, writer, and small content creator.
 - 🛡️ Strong at configuring privacy/security settings on digital devices/accounts
 - 🗣️ Proficient in English (speaking, listening, writing)
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biranchikulesika&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="biranchikulesika's GitHub stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=biranchikulesika&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="biranchikulesika's top languages" />
-</p>
-
-<p align="center">
- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" width="40" height="40"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
-
 ---
 
 ### 🧠 Follow Me On
@@ -140,5 +122,3 @@ I am a cyber security enthusiast, programmer, writer, and small content creator.
   </a>
 
 </div>
-
-<p align="center"><br><br><br><img src="https://komarev.com/ghpvc/?username=biranchikulesika&label=Profile%20views&color=0e75b6&style=flat" alt="biranchikulesika" /> </p>
