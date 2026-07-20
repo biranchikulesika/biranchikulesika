@@ -50,7 +50,7 @@ I am a cyber security enthusiast, programmer, writer, and small content creator.
 
 **Education**
 
-- 🎓 Integrated MCA, Utka University, BBSR (2024–29)
+- 🎓 Integrated MCA, Utkal University, BBSR (2024–29)
 - 🏫 +2 Science, BJB Higher Secondary School, BBSR (2021–23, CHSE)
 - 📚 Matriculation, EMRS, Pungar (2016–21, CBSE)
 
