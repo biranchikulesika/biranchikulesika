@@ -1,0 +1,31 @@
+name: Generate work-with SVG
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - work-with.json
+      - scripts/generate-work-with.py
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate SVG
+        run: python3 scripts/generate-work-with.py
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/work-with.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update work-with SVG [skip ci]"
+          git push

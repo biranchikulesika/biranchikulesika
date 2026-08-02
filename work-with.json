@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "title": "💻 Languages",
+      "accent": "#58a6ff",
+      "text": "#79c0ff",
+      "items": ["C/C++", "Python", "PHP", "JavaScript", "TypeScript", "HTML & CSS", "SQL"]
+    },
+    {
+      "title": "🛡️ Security",
+      "accent": "#bc8cff",
+      "text": "#d2a8ff",
+      "items": ["Wireshark", "Nmap", "Kali Linux", "Terminal & SSH", "Privacy hardening"]
+    },
+    {
+      "title": "🧰 Tools",
+      "accent": "#f778ba",
+      "text": "#ff9bce",
+      "items": ["Git", "Notion", "Microsoft Office", "Google Workspace", "AI assistants"]
+    },
+    {
+      "title": "✍️ Writing & beyond",
+      "accent": "#3fb950",
+      "text": "#7ee787",
+      "items": ["Atomic essays", "Reading & podcasts", "Infotainment", "Self-talk recordings", "Customising devices"]
+    }
+  ]
+}
