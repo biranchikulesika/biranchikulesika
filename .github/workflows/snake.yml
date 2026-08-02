@@ -1,0 +1,83 @@
+# Snake Animation Workflow
+# Generates an animated snake that eats GitHub contribution dots.
+# Output is committed to the 'output' branch and referenced in README.
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs every 6 hours to keep the animation fresh
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: biranchikulesika
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Clean snake output
+        run: |
+          sudo chown -R "$USER" dist
+          python3 - <<'PY'
+          import pathlib
+          import re
+
+          for p in pathlib.Path("dist").glob("*.svg"):
+              s = p.read_text()
+
+              # remove the progress bar under the grid
+              s = re.sub(r'<rect class="u[^"]*"[^>]*/>', '', s)
+              s = re.sub(r'\.u\{[^}]*\}', '', s)
+              s = re.sub(r'@keyframes u\d+\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}', '', s)
+
+              # keep the snake inside the grid (rows 0..96)
+              def remap(m):
+                  x, y = m.group(1), m.group(2)
+                  y = '0' if y == '-16' else '96'
+                  return 'translate(%spx,%spx)' % (x, y)
+
+              s = re.sub(r'translate\(([0-9.]+)px,(-16|112)px\)', remap, s)
+
+              # crop the canvas to the grid
+              s = re.sub(
+                  r'viewBox="-16 -32 880 192"',
+                  'viewBox="0 0 848 116"',
+                  s,
+              )
+              p.write_text(s)
+          PY
+
+      - name: Deploy to output branch
+        run: |
+          cd dist
+          sudo chown -R "$USER" . || true
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add .
+          git commit -m "chore: update snake animation"
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/biranchikulesika/biranchikulesika.git"
+          git push -f origin output

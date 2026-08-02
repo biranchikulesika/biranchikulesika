@@ -1,124 +1,79 @@
-# Hello everyone, Biranchi here! 👋
-
+## Biranchi Kulesika
 
 I am a cyber security enthusiast, programmer, writer, and small content creator. I was once a NEET aspirant. I spent a year preparing for the medical entrance exam but did not clear it. After that, I changed my path and started to learn coding. This choice gave me new opportunities in technology, writing, and content creation. I enjoy exploring and sharing what I learn.
 
-<div align="center">
+### Now
 
-  <a href="https://github.com/biranchikulesika">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://biranchikulesika.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.threads.net/@biranchikulesika">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.facebook.com/biranchikulesika">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.youtube.com/@biranchikulesika">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.instagram.com/biranchikulesika/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://x.com/BKulesika">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://linktr.ee/biranchikulesika">
-    <img src="https://img.shields.io/badge/Linktree-43E8F5?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaATOwl2P59gx0xKBl2j">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.linkedin.com/in/biranchikulesika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="28" style="border-radius:6px;">
-  </a>
+- 🎓 Studying Integrated MCA at Utkal University (2024-29)
+- ✍️ Writing short essays and learning in public
+- 🐧 Spending time in the Linux terminal: networks, security, and configs
 
-</div>
+### What I work with
 
----
+<table width="100%" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px 18px;min-height:160px;">
+        <h4 style="margin:0 0 14px;color:#58a6ff;">💻 Languages</h4>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">C/C++</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Python</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">PHP</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">JavaScript</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">TypeScript</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">HTML &amp; CSS</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(88,166,255,0.35);color:#79c0ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">SQL</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px 18px;min-height:160px;">
+        <h4 style="margin:0 0 14px;color:#bc8cff;">🛡️ Security</h4>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(188,140,255,0.35);color:#d2a8ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Wireshark</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(188,140,255,0.35);color:#d2a8ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Nmap</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(188,140,255,0.35);color:#d2a8ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Kali Linux</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(188,140,255,0.35);color:#d2a8ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Terminal &amp; SSH</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(188,140,255,0.35);color:#d2a8ff;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Privacy hardening</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="height:12px;"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px 18px;min-height:160px;">
+        <h4 style="margin:0 0 14px;color:#f778ba;">🧰 Tools</h4>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(247,120,186,0.35);color:#ff9bce;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Git</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(247,120,186,0.35);color:#ff9bce;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Notion</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(247,120,186,0.35);color:#ff9bce;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Microsoft Office</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(247,120,186,0.35);color:#ff9bce;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Google Workspace</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(247,120,186,0.35);color:#ff9bce;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">AI assistants</span>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:16px 18px;min-height:160px;">
+        <h4 style="margin:0 0 14px;color:#3fb950;">✍️ Writing &amp; beyond</h4>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(63,185,80,0.35);color:#7ee787;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Atomic essays</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(63,185,80,0.35);color:#7ee787;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Reading &amp; podcasts</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(63,185,80,0.35);color:#7ee787;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Infotainment</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(63,185,80,0.35);color:#7ee787;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Self-talk recordings</span>
+        <span style="display:inline-block;background:#0d1117;border:1px solid rgba(63,185,80,0.35);color:#7ee787;border-radius:6px;padding:4px 11px;margin:0 6px 8px 0;font-size:13px;">Customising devices</span>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 👨‍💻 About Me
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="70%">
+</p>
 
-**Languages**
+<p align="center">
+  <sub>Last updated: <!-- LAST_UPDATED --></sub>
+</p>
 
-- 🖥️ C/C++
-- 🐍 Python
-- 🌐 HTML & CSS
+<p align="center">
+  <img src="https://raw.githubusercontent.com/biranchikulesika/biranchikulesika/output/github-snake-dark.svg" width="70%" alt="My contribution graph as a snake">
+</p>
 
-**Education**
-
-- 🎓 Integrated MCA, Utkal University, BBSR (2024–29)
-- 🏫 +2 Science, BJB Higher Secondary School, BBSR (2021–23, CHSE)
-- 📚 Matriculation, EMRS, Pungar (2016–21, CBSE)
-
-**Hobbies**
-
-- 📖 Reading books
-- ✍️ Writing atomic essays
-- 🎧 Listening to podcasts
-- 📺 Watching infotainment
-- 🗣️ Recording self-talk sessions
-
-**Tools**
-
-- 🗂️ Microsoft Office: Excel, Word, PowerPoint
-- 🟩 Google Workspace: Sheets, Docs, Forms, Gmail, Calendar, Meet
-- 🗒️ Notion: Notion, Calendar, Email
-- 🤖 AI: ChatGPT, Gemini, Perplexity, Claude, Gamma
-
-**Hacking Skills**
-
-- 📶 Cracking WiFi passwords (for ethical testing)
-- 🕵️ Skilled with Wireshark & Nmap
-- 🐧 Proficient on Kali Linux
-- 🔑 Comfortable using SSH and terminal
-- 💻 Experience with old Windows PCs
-
-**Extra Skills That Help**
-
-- ⌨️ Fast and accurate typing speed
-- ⚙️ Skilled at customising settings on mobiles and computers
-- 🛡️ Strong at configuring privacy/security settings on digital devices/accounts
-- 🗣️ Proficient in English (speaking, listening, writing)
-
----
-
-### 🧠 Follow Me On
-
-<div align="center">
-
-  <a href="https://github.com/biranchikulesika">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://biranchikulesika.substack.com/">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.threads.net/@biranchikulesika">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.facebook.com/biranchikulesika">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.youtube.com/@biranchikulesika">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.instagram.com/biranchikulesika/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://x.com/BKulesika">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://linktr.ee/biranchikulesika">
-    <img src="https://img.shields.io/badge/Linktree-43E8F5?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaATOwl2P59gx0xKBl2j">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel" width="120" height="28" style="border-radius:6px;">
-  </a>
-  <a href="https://www.linkedin.com/in/biranchikulesika/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="28" style="border-radius:6px;">
-  </a>
-
-</div>
+<p align="center">
+  <a href="https://kulesika.in">kulesika.in</a>
+</p>
