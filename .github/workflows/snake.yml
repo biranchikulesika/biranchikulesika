@@ -54,6 +54,7 @@ jobs:
               # remove the progress bar under the grid
               s = re.sub(r'<rect class="u[^"]*"[^>]*/>', '', s)
               s = re.sub(r'\.u\{[^}]*\}', '', s)
+              s = re.sub(r'\.u\.[^{}]*\{[^}]*\}', '', s)
               s = re.sub(r'@keyframes u\d+\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}', '', s)
 
               # keep the snake inside the grid (rows 0..96)
